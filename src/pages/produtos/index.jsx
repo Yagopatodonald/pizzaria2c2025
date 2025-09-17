@@ -2,8 +2,8 @@ const Produtos = () => {
 
     const pizzas = [
         'pizza 1',
-        'pizza 2',
-        'pizza 3'
+        'pizza 3',
+        'pizza 2'
     ]
 
     const listaPizzas = pizzas.map(pizza=><li>{pizza}</li>)
